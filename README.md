@@ -1,3 +1,3 @@
 # hello-world
-Hello, I am a rookie in git
+I am a new dev here
 hello world
